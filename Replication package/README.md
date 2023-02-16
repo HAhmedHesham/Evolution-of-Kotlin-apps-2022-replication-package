@@ -1,7 +1,7 @@
 # Evolution of Kotlin apps replication package
 
 ### About
-The purpose is to test how the energy consumption of Kotlin applications changes with time. For each selected application, a different number of releases were chosen to run the tests on. The test are recorded keystrokes and inputs used to run a specific feature of the application. After ruuning the trial, the energy(In Joules) that were consumed was collected. After collecting the data, statistical tests were performed to help interpret the results.
+The purpose of this experiment is to test how the energy consumption of Kotlin applications changes with time. For each selected application, a different number of releases were chosen to run the tests on. The test are recorded keystrokes and inputs used to run a specific feature of the application. After ruuning the trial, the energy(In Joules) that were consumed was collected. After collecting the data, statistical tests were performed to help interpret the results.
 
 ### Requirements
 ##### Hardware:
