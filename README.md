@@ -78,8 +78,8 @@ Each of the folders listed above are described in details in the remaining of th
 ### 03 Source code
 ---
 ```
+    / 
     .
-    /
     |--- config.json   				The configuration file of the Android Runner environment    
     |--- Scripts/ 
 	    |--- after_experiment.py		The sequence of actions after the completion of the experiment
