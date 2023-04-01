@@ -18,6 +18,17 @@ This study has been designed, developed, and reported by the following investiga
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
 
+## How to cite the dataset
+```
+@inproceedings{ICT4S_2023,
+  title={{Evolution of Kotlin Apps in terms of Energy Consumption: An Exploratory Study}},
+  author={Hesham Ahmed and Alina Boshchenko and Dmitriy Knyajev and Niaz Ali Khan and Dinara Garifollina and Gian Luca Scoccia and Matias Martinez and Ivano Malavolta},
+  booktitle = {to appear},
+  year = {2023},
+  pages = {to appear},
+  numpages = {10},
+}
+```
 
 ### Overview of the replication package
 ---
