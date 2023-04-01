@@ -40,11 +40,11 @@ This replication package is structured as follows:
 ```
     /
     .
-    |--- 01 Data/       	     Contains a list of 87 mobile apps that represents the initial pool of apps to choose from. Also, it contains the list after applying the inclusion and exclusion criteria. Finally, it contains the data that were collected after each trial of the experiment.
-    |--- 02 Tests/                   Contains the tests(recorded keystrokes) that were used on each release of each application.
-    |--- 03 Source code/            Contains scripts for android-runner and the required android-runner config file.
-    |--- 04 Figures/                Contains the plots created after running the statistical tests.
-    |--- 05 Analysis/               Contains R scripts to perform statistical tests.
+    |--- 01 Data/       	         Contains a list of 87 mobile apps that represents the initial pool of apps to choose from. Also, it contains the list after applying the inclusion and exclusion criteria. Finally, it contains the data that were collected after each trial of the experiment.
+    |--- 02 Tests/                       Contains the tests(recorded keystrokes) that were used on each release of each application.
+    |--- 03 Source code/                Contains scripts for android-runner and the required android-runner config file.
+    |--- 04 Figures/                    Contains the plots created after running the statistical tests.
+    |--- 05 Analysis/                   Contains R scripts to perform statistical tests.
 
 ```
 
