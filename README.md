@@ -18,17 +18,6 @@ This study has been designed, developed, and reported by the following investiga
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
 
-## How to cite the dataset
-```
-@inproceedings{ICT4S_2023,
-  title={{Evolution of Kotlin Apps in terms of Energy Consumption: An Exploratory Study}},
-  author={Hesham Ahmed and Alina Boshchenko and Dmitriy Knyajev and Niaz Ali Khan and Dinara Garifollina and Gian Luca Scoccia and Matias Martinez and Ivano Malavolta},
-  booktitle = {to appear},
-  year = {2023},
-  pages = {to appear},
-  numpages = {10},
-}
-```
 
 ### Overview of the replication package
 ---
@@ -51,9 +40,9 @@ This replication package is structured as follows:
 ```
     /
     .
-    |--- 01 Data/       	 Contains a list of 87 mobile apps that represents the initial pool of apps to choose from. Also, it contains the list after applying the inclusion and exclusion criteria. Finally, it contains the data that were collected after each trial of the experiment.
-    |--- 02 Tests/                     Contains the tests(recorded keystrokes) that were used on each release of each application.
-    |--- 03 Source code/             Contains scripts for android-runner and the required android-runner config file.
+    |--- 01 Data/       	     Contains a list of 87 mobile apps that represents the initial pool of apps to choose from. Also, it contains the list after applying the inclusion and exclusion criteria. Finally, it contains the data that were collected after each trial of the experiment.
+    |--- 02 Tests/                   Contains the tests(recorded keystrokes) that were used on each release of each application.
+    |--- 03 Source code/            Contains scripts for android-runner and the required android-runner config file.
     |--- 04 Figures/                Contains the plots created after running the statistical tests.
     |--- 05 Analysis/               Contains R scripts to perform statistical tests.
 
