@@ -55,10 +55,10 @@ Each of the folders listed above are described in details in the remaining of th
 ```
     /
     .
-    |--- Anki-Android/       	         The data the was collected after running each trial of the experiment for the application Anki-Android.
-    |--- UHabit/                       The data the was collected after running each trial of the experiment for the application UHabit.
-    |--- wifianalyzer/                 The data the was collected after running each trial of the experiment for the application Wifianalyzer.
-    |--- List of apps - Subjects Selection.xlsx/                     An xlsx file that contains the initial pool of apps after appying the exclusion and inclusion criteria.
+    |--- Anki-Android/       	          The data the was collected after running each trial of the experiment for the application Anki-Android.
+    |--- UHabit/                          The data the was collected after running each trial of the experiment for the application UHabit.
+    |--- wifianalyzer/                    The data the was collected after running each trial of the experiment for the application Wifianalyzer.
+    |--- List of apps - Subjects Selection.xlsx/       An xlsx file that contains the initial pool of apps after appying the exclusion and inclusion criteria.
 
 ```
 
@@ -69,8 +69,8 @@ Each of the folders listed above are described in details in the remaining of th
     /
     .
     |--- Anki-Android/       	         Contains the tests that are associated with each release of the application Anki-Android.
-    |--- UHabit/                       Contains the tests that are associated with each release of the application UHabit.
-    |--- wifianalyzer/                 Contains the tests that are associated with each release of the application Wifianalyzer.
+    |--- UHabit/                         Contains the tests that are associated with each release of the application UHabit.
+    |--- wifianalyzer/                   Contains the tests that are associated with each release of the application Wifianalyzer.
     
 
 ```
