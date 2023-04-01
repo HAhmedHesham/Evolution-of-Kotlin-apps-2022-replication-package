@@ -53,7 +53,6 @@ Each of the folders listed above are described in details in the remaining of th
 ### 01 Data
 
 ```
-    /
     .
     |--- Anki-Android/       	          The data the was collected after running each trial of the experiment for the application Anki-Android.
     |--- UHabit/                          The data the was collected after running each trial of the experiment for the application UHabit.
@@ -66,7 +65,6 @@ Each of the folders listed above are described in details in the remaining of th
 ### 02 Tests
 
 ```
-    /
     .
     |--- Anki-Android/       	         Contains the tests that are associated with each release of the application Anki-Android.
     |--- UHabit/                         Contains the tests that are associated with each release of the application UHabit.
@@ -78,7 +76,6 @@ Each of the folders listed above are described in details in the remaining of th
 ### 03 Source code
 ---
 ```
-    / 
     .
     |--- config.json   				The configuration file of the Android Runner environment    
     |--- Scripts/ 
@@ -96,7 +93,6 @@ The listed scripts can be copied to original Android Runner environment in order
 ### 04 Figures
 ---
 ```
-    	/
    	.
 	|--- AnkiAndroid-analysisGraph.png
 	|--- CL_AnkiAndroid.png
@@ -111,7 +107,6 @@ The listed scripts can be copied to original Android Runner environment in order
 ### 05 Analysis
 ---
 ```
-    	/
     	.
 	|--- analysis.Rmd				R script for generating analysis graphs
 
