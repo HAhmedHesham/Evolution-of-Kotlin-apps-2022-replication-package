@@ -28,8 +28,8 @@ This repository is structured as follows:
 ```
     /
     .
-    |--- AndroidRunner/       		a copy of the source code of the Android Runner framework, which we used and customized for running our experiment.
-    |--- Replication Package/           the folder containing all the Python source code we used for the experiment, its raw data, R analysis scripts, etc.
+    |--- AndroidRunner/       		A copy of the source code of the Android Runner framework, which we used and customized for running our experiment.
+    |--- Replication Package/           The folder containing all the Python source code we used for the experiment, its raw data, R analysis scripts, etc.
 
 ```
 
