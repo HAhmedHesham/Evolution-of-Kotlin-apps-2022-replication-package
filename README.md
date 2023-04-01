@@ -75,5 +75,48 @@ Each of the folders listed above are described in details in the remaining of th
 
 ```
 
+### Source code
+---
+```
+03 Source code
+    .
+    /
+    |--- config.json   				The configuration file of the Android Runner environment    
+    |--- Scripts/ 
+	    |--- after_experiment.py		The sequence of actions after the completion of the experiment
+	    |--- after_launch.py		The sequence of actions after launching Android Runner
+	    |--- after_run.py 			The sequence of actions after launching the application
+	    |--- before_close.py		The sequence of actions before closing the application
+	    |--- before_experiment.py 		The sequence of actions before running the experiment
+	    |--- before_run.py			The sequence of actions before starting the application
+	    |--- interaction.py			The sequence of actions while the application is running
+```
+The listed scripts can be copied to original Android Runner environment in order to repeat the experiment.
 
+
+### Figures
+---
+```
+04 Figures
+    /
+   	.
+	|--- AnkiAndroid-analysisGraph.png
+	|--- CL_AnkiAndroid.png
+	|--- CL_Uhabits.png
+	|--- CL_WifiAnalyzer.png
+	|--- UHabit-analysisGraph.png
+	|--- wifianalyzer-analysisGraph.png      
+	|---Exploratory figures           
+	│   |--- CodeReview/ 				Contains files for checking the number of lines of Kotlin code in each of the releases
+	│   |--- Debug GPU overdraw/			Contains screenshots of GPU overdraws described in the article 
+```
+### Analysis
+---
+```
+05 Analysis
+    /
+    .
+	|--- analysis.Rmd				R script for generating analysis graphs
+
+```
 
