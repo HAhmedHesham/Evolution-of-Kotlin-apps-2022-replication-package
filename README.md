@@ -51,7 +51,7 @@ This replication package is structured as follows:
 Each of the folders listed above are described in details in the remaining of this readme.
 
 ### 01 Data
-
+---
 ```
     .
     |--- Anki-Android/       	          The data the was collected after running each trial of the experiment for the application Anki-Android.
@@ -63,7 +63,7 @@ Each of the folders listed above are described in details in the remaining of th
 
 
 ### 02 Tests
-
+---
 ```
     .
     |--- Anki-Android/       	         Contains the tests that are associated with each release of the application Anki-Android.
