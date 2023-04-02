@@ -100,10 +100,13 @@ The listed scripts can be copied to original Android Runner environment in order
 	|--- CL_WifiAnalyzer.png
 	|--- UHabit-analysisGraph.png
 	|--- wifianalyzer-analysisGraph.png      
-	|---Exploratory figures           
+	|---Exploratory figures/
 	│   |--- CodeReview/ 				Contains files for checking the number of lines of Kotlin code in each of the releases
 	│   |--- Debug GPU overdraw/			Contains screenshots of GPU overdraws described in the article 
 ```
+
+This folder contains the figures used in the article and reveals details such as application GPU overlays and the percentage of code written in Kotlin in various application releases.
+
 ### 05 Analysis
 ---
 ```
