@@ -66,9 +66,9 @@ Each of the folders listed above are described in details in the remaining of th
 ---
 ```
     .
-    |--- Anki-Android/       	         Contains the tests that are associated with each release of the application Anki-Android.
-    |--- UHabit/                         Contains the tests that are associated with each release of the application UHabit.
-    |--- wifianalyzer/                   Contains the tests that are associated with each release of the application Wifianalyzer.
+    |--- Anki-Android/       	         Contains the tests that are associated with each releases of the application Anki-Android.
+    |--- UHabit/                         Contains the tests that are associated with each releases of the application UHabit.
+    |--- wifianalyzer/                   Contains the tests that are associated with each releases of the application Wifianalyzer.
     
 
 ```
